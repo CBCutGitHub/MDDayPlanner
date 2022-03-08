@@ -1,4 +1,4 @@
-// Referrence moment.js to get current date and display as text on html
+// Reference moment.js to get current date and display as text on html
 $("#currentDay").text(moment().format("MMMM DD, YYYY"))
 var momentHour = moment().hours()
 // Create click event on save button that takes the value of text area and saves it to (localStorage.setItem)
@@ -19,7 +19,7 @@ $("#15 .description").val(localStorage.getItem("15"))
 $("#16 .description").val(localStorage.getItem("16"))
 $("#17 .description").val(localStorage.getItem("17"))
 
-// ****add the rest the grab values***
+
 
 // Create conditional to change color of note blocks based on time of day
 
