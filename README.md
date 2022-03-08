@@ -14,7 +14,8 @@ The application utilizes several moment techniques and military time, to drive t
 
 This application was developed using java, java script, bootstrap, HTML, script.js, style css, moment.js, various font families and is displayed in a web browser.
 
-Click this link to launch the application
+Click this link to launch the application: https://cbcutgithub.github.io/MDDayPlanner/
+
 
 Work Day Scheduler displayed below shows the hourly buttons, note blocks with activities, NAV bar, and the save button:
 
