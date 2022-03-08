@@ -26,4 +26,8 @@ Work Day Scheduler displayed below shows the hourly buttons, note blocks with ac
 ## Reference and Resources
 ### w3schools https://w3schools.com
 ### Moment https://momentjs.com/
+<<<<<<< HEAD
 ### MDN https://developer.mozilla.org/en-US/docs/Web/JavaScript
+=======
+### MDN https://developer.mozilla.org/en-US/docs/Web/JavaScript
+>>>>>>> f5ea0ef26212f9c8b501cb16d4445d8f22231173
